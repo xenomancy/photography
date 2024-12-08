@@ -1,0 +1,10 @@
+{
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"editor.autoIndent": "none",
+	"editor.comments.insertSpace": true,
+	"editor.guides.highlightActiveIndentation": true,
+	"editor.guides.indentation": true,
+	"liveServer.settings.port": 5502
+}
